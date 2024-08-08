@@ -1,5 +1,211 @@
 {
-    "products" : [
-
+    "products": [
+        { "id": 1, "name": "Gaming Laptop", "price": 1299, "stock": 15, "category": "Electronics", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
+        { "id": 2, "name": "Smartphone", "price": 699, "stock": 20, "category": "Electronics", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
+        { "id": 3, "name": "Fitness Tracker", "price": 99, "stock": 30, "category": "Accessories", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png" },
+        { "id": 4, "name": "4K Monitor", "price": 349, "stock": 10, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-bluetooth-headset-electronics-red-transparent-png-image_6687197.png" },
+        { "id": 5, "name": "Bluetooth Headphones", "price": 149, "stock": 25, "category": "Accessories", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
+        { "id": 6, "name": "Wireless Mouse", "price": 29, "stock": 50, "category": "Electronics", "action": "Manage", "photo": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/charge-5/hero-static/charge5-black-device-3qtr.png" },
+        { "id": 7, "name": "Mechanical Keyboard", "price": 89, "stock": 12, "category": "Electronics", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
+        { "id": 8, "name": "Smart Home Speaker", "price": 199, "stock": 8, "category": "Accessories", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
+        { "id": 9, "name": "External SSD", "price": 259, "stock": 6, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png" },
+        { "id": 10, "name": "Action Camera", "price": 499, "stock": 5, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-bluetooth-headset-electronics-red-transparent-png-image_6687197.png" },
+        { "id": 11, "name": "Tablet", "price": 399, "stock": 18, "category": "Electronics", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
+        { "id": 12, "name": "Smartwatch", "price": 249, "stock": 22, "category": "Accessories", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-bluetooth-headset-electronics-red-transparent-png-image_6687197.png" },
+        { "id": 13, "name": "Laptop Stand", "price": 59, "stock": 35, "category": "Accessories", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
+        { "id": 14, "name": "Desk Lamp", "price": 45, "stock": 40, "category": "Accessories", "action": "Manage", "photo": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/charge-5/hero-static/charge5-black-device-3qtr.png" },
+        { "id": 15, "name": "Webcam", "price": 89, "stock": 28, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png" }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9I44lKrqr1a-qrgKSsb8RVgliz3lKvYGDA&s",
+            "name": "John Doe",
+            "gender": "Male",
+            "email": "johndoe@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 2,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvHO3qHjpil9S7NCQHb766lEGUyiuPPrHQg&s",
+            "name": "Jane Smith",
+            "gender": "Female",
+            "email": "janesmith@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 3,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00b0S9PaTtcZ84tTKJ0a4kmFPUL0unrkw1Q&s",
+            "name": "Sam Brown",
+            "gender": "Male",
+            "email": "sambrown@example.com",
+            "role": "Admin",
+            "action": "delete"
+        },
+        {
+            "id": 4,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvYT9zY25Pjsbw9Ier_-4nI2iHBA2JeK4EQ&s",
+            "name": "Lisa Johnson",
+            "gender": "Female",
+            "email": "lisajohnson@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 5,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvYT9zY25Pjsbw9Ier_-4nI2iHBA2JeK4EQ&s",
+            "name": "Paul Wilson",
+            "gender": "Male",
+            "email": "paulwilson@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 6,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfiJ-1T2MNpEforhO58TlsedzvEhZWEYgSA&s",
+            "name": "Emily Davis",
+            "gender": "Female",
+            "email": "emilydavis@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 7,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00b0S9PaTtcZ84tTKJ0a4kmFPUL0unrkw1Q&s",
+            "name": "Michael Miller",
+            "gender": "Male",
+            "email": "michaelmiller@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 8,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvHO3qHjpil9S7NCQHb766lEGUyiuPPrHQg&s",
+            "name": "Jessica Garcia",
+            "gender": "Female",
+            "email": "jessicagarcia@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 9,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9I44lKrqr1a-qrgKSsb8RVgliz3lKvYGDA&s",
+            "name": "David Martinez",
+            "gender": "Male",
+            "email": "davidmartinez@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 10,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfiJ-1T2MNpEforhO58TlsedzvEhZWEYgSA&s",
+            "name": "Sarah Anderson",
+            "gender": "Female",
+            "email": "sarahanderson@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 11,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvHO3qHjpil9S7NCQHb766lEGUyiuPPrHQg&s",
+            "name": "Daniel Thomas",
+            "gender": "Male",
+            "email": "danielthomas@example.com",
+            "role": "User",
+            "action": "delete"
+        },
+        {
+            "id": 12,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvYT9zY25Pjsbw9Ier_-4nI2iHBA2JeK4EQ&s",
+            "name": "Laura Taylor",
+            "gender": "Female",
+            "email": "laurataylor@example.com",
+            "role": "Admin",
+            "action": "delete"
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "user": "John Doe",
+            "amount": 150,
+            "quantity": "2",
+            "status": "Pending",
+            "action": "Manage"
+        },
+        {
+            "id": 2,
+            "user": "Jane Smith",
+            "amount": 300,
+            "quantity": "1",
+            "status": "Delivered",
+            "action": "Manage"
+        },
+        {
+            "id": 3,
+            "user": "Alice Johnson",
+            "amount": 450,
+            "quantity": "3",
+            "status": "Pending",
+            "action": "Manage"
+        },
+        {
+            "id": 4,
+            "user": "Bob Brown",
+            "amount": 120,
+            "quantity": "1",
+            "status": "Shipped",
+            "action": "Manage"
+        },
+        {
+            "id": 5,
+            "user": "Charlie Davis",
+            "amount": 200,
+            "quantity": "2",
+            "status": "Cancelled",
+            "action": "Manage"
+        },
+        {
+            "id": 6,
+            "user": "Diana Evans",
+            "amount": 340,
+            "quantity": "4",
+            "status": "Delivered",
+            "action": "Manage"
+        },
+        {
+            "id": 7,
+            "user": "Frank Green",
+            "amount": 500,
+            "quantity": "5",
+            "status": "Pending",
+            "action": "Manage"
+        },
+        {
+            "id": 8,
+            "user": "Grace Hall",
+            "amount": 250,
+            "quantity": "2",
+            "status": "Shipped",
+            "action": "Manage"
+        },
+        {
+            "id": 9,
+            "user": "Henry Adams",
+            "amount": 300,
+            "quantity": "3",
+            "status": "Delivered",
+            "action": "Manage"
+        },
+        {
+            "id": 10,
+            "user": "Ivy Baker",
+            "amount": 400,
+            "quantity": "4",
+            "status": "Pending",
+            "action": "Manage"
+        }
     ]
 }
