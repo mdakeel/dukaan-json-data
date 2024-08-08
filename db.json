@@ -1,19 +1,19 @@
 {
-    "products": [
-        { "id": 1, "name": "Gaming Laptop", "price": 1299, "stock": 15, "category": "Electronics", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
-        { "id": 2, "name": "Smartphone", "price": 699, "stock": 20, "category": "Electronics", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
-        { "id": 3, "name": "Fitness Tracker", "price": 99, "stock": 30, "category": "Accessories", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png" },
+  "products": [
+        { "id": 1, "name": "Gaming Laptop", "price": 1299, "stock": 15, "category": "Laptop", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
+        { "id": 2, "name": "Smartphone", "price": 699, "stock": 20, "category": "Mobile", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
+        { "id": 3, "name": "Fitness Tracker", "price": 99, "stock": 30, "category": "Watch", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png" },
         { "id": 4, "name": "4K Monitor", "price": 349, "stock": 10, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-bluetooth-headset-electronics-red-transparent-png-image_6687197.png" },
-        { "id": 5, "name": "Bluetooth Headphones", "price": 149, "stock": 25, "category": "Accessories", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
+        { "id": 5, "name": "Bluetooth Headphones", "price": 149, "stock": 25, "category": "Electronics", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
         { "id": 6, "name": "Wireless Mouse", "price": 29, "stock": 50, "category": "Electronics", "action": "Manage", "photo": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/charge-5/hero-static/charge5-black-device-3qtr.png" },
         { "id": 7, "name": "Mechanical Keyboard", "price": 89, "stock": 12, "category": "Electronics", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
-        { "id": 8, "name": "Smart Home Speaker", "price": 199, "stock": 8, "category": "Accessories", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
+        { "id": 8, "name": "Smart Home Speaker", "price": 199, "stock": 8, "category": "Electronics", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
         { "id": 9, "name": "External SSD", "price": 259, "stock": 6, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png" },
         { "id": 10, "name": "Action Camera", "price": 499, "stock": 5, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-bluetooth-headset-electronics-red-transparent-png-image_6687197.png" },
         { "id": 11, "name": "Tablet", "price": 399, "stock": 18, "category": "Electronics", "action": "Manage", "photo": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Clipart.png" },
-        { "id": 12, "name": "Smartwatch", "price": 249, "stock": 22, "category": "Accessories", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-bluetooth-headset-electronics-red-transparent-png-image_6687197.png" },
-        { "id": 13, "name": "Laptop Stand", "price": 59, "stock": 35, "category": "Accessories", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
-        { "id": 14, "name": "Desk Lamp", "price": 45, "stock": 40, "category": "Accessories", "action": "Manage", "photo": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/charge-5/hero-static/charge5-black-device-3qtr.png" },
+        { "id": 12, "name": "Smartwatch", "price": 249, "stock": 22, "category": "Watch", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-bluetooth-headset-electronics-red-transparent-png-image_6687197.png" },
+        { "id": 13, "name": "Laptop Stand", "price": 59, "stock": 35, "category": "Laptop", "action": "Manage", "photo": "https://pngimg.com/uploads/laptop/laptop_PNG101764.png" },
+        { "id": 14, "name": "Desk Lamp", "price": 45, "stock": 40, "category": "Electronics", "action": "Manage", "photo": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/charge-5/hero-static/charge5-black-device-3qtr.png" },
         { "id": 15, "name": "Webcam", "price": 89, "stock": 28, "category": "Electronics", "action": "Manage", "photo": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png" }
     ],
     "customers": [
