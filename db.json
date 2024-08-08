@@ -24,7 +24,8 @@
             "gender": "Male",
             "email": "johndoe@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password1"
         },
         {
             "id": 2,
@@ -33,7 +34,8 @@
             "gender": "Female",
             "email": "janesmith@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password2"
         },
         {
             "id": 3,
@@ -42,7 +44,8 @@
             "gender": "Male",
             "email": "sambrown@example.com",
             "role": "Admin",
-            "action": "delete"
+            "action": "delete",
+            "password": "password3"
         },
         {
             "id": 4,
@@ -51,7 +54,8 @@
             "gender": "Female",
             "email": "lisajohnson@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password4"
         },
         {
             "id": 5,
@@ -60,7 +64,8 @@
             "gender": "Male",
             "email": "paulwilson@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password5"
         },
         {
             "id": 6,
@@ -69,7 +74,8 @@
             "gender": "Female",
             "email": "emilydavis@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password6"
         },
         {
             "id": 7,
@@ -78,7 +84,8 @@
             "gender": "Male",
             "email": "michaelmiller@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password7"
         },
         {
             "id": 8,
@@ -87,7 +94,8 @@
             "gender": "Female",
             "email": "jessicagarcia@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password8"
         },
         {
             "id": 9,
@@ -96,7 +104,8 @@
             "gender": "Male",
             "email": "davidmartinez@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password9"
         },
         {
             "id": 10,
@@ -105,7 +114,8 @@
             "gender": "Female",
             "email": "sarahanderson@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password10"
         },
         {
             "id": 11,
@@ -114,7 +124,8 @@
             "gender": "Male",
             "email": "danielthomas@example.com",
             "role": "User",
-            "action": "delete"
+            "action": "delete",
+            "password": "password11"
         },
         {
             "id": 12,
@@ -123,7 +134,8 @@
             "gender": "Female",
             "email": "laurataylor@example.com",
             "role": "Admin",
-            "action": "delete"
+            "action": "delete",
+            "password": "password12"
         }
     ],
     "transactions": [
